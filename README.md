@@ -1,1 +1,1 @@
-# practical-neuroimaging
+# Practical-Neuroimaging
